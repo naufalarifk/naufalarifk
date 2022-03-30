@@ -1,1 +1,1 @@
-[![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalarifk)](https://github.com/anuraghazra/github-readme-stats)
+[![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalarifk&show_icons=true&theme=tokyonight)]
