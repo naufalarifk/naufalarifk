@@ -1,2 +1,1 @@
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalarifk&show_icons=true&theme=gotham) <br> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalarifk)
+[![naufalarifk's GitHub | Stats](https://stats.quine.sh/naufalarifk/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=naufalarifk)
